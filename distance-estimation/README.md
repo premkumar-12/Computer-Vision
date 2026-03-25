@@ -16,8 +16,3 @@ This project estimates distance using computer vision techniques.
 ## 👨‍💻 Author
 Prem Kumar B.M.
 
-## 🔍 Project Type
-Mini Project – Computer Vision
-
-## 📌 Use Case
-Distance estimation for real-world applications like object detection and safety systems.
